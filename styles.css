@@ -1,0 +1,54 @@
+header {
+    font-size: 70px;
+    font-family: 'Verdana', Courier, monospace;
+    color: rgb(226, 224, 221);
+    position: sticky;
+    top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+    background-color: rgb(3, 3, 87);
+    width: 1000px;
+    border: 2px solid yellow;
+
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+.top {
+    font-size: 50px;
+    text-align: center;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid blue;
+    width: 1000px;
+    border-collapse:collapse;
+}
+
+td, thead, tr {
+    border: 1px solid black;
+}
+
+thead {
+    background-color: blueviolet;
+}
+.Adnan {
+    text-align: left;
+    font-size: large;
+    font-weight: 300;
+    color: green;
+
+}
+
+.info {
+    color: blueviolet;
+    font-size: large;
+}
+
+footer, h1, tr, thead, td, p {
+    font-family: 'Verdana', Courier, monospace;
+}
